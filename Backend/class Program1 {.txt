@@ -1,0 +1,31 @@
+class Program1 {
+    public static void main(String[] args) {
+        int value1 = 10; // number (integer)
+        String value2 = "Swathi"; // string datatype
+        char value3 = 's'; // character datatype
+        boolean value4 = true; // boolean datatype
+        double value5 = 367.8; // double datatype
+    System.out.println(value1);class Program1 {
+    public static void main(String[] args) {
+        int value1 = 10; // number (integer)
+        String value2 = "Swathi"; // string datatype
+        char value3 = 's'; // character datatype
+        boolean value4 = true; // boolean datatype
+        double value5 = 367.8; // double datatype
+    System.out.println(value1);
+    System.out.println(value2);
+    System.out.println(value3);
+    System.out.println(value4);
+    System.out.println(value5);
+        
+       
+    }
+}
+    System.out.println(value2);
+    System.out.println(value3);
+    System.out.println(value4);
+    System.out.println(value5);
+        
+       
+    }
+}
